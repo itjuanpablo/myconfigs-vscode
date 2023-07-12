@@ -6,6 +6,7 @@
 
 - Default Dark Modern
 
-## Example
+## Examples
 
 ![Alt text](assets/image.png)
+![Alt text](assets/image2.png)
