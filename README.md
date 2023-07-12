@@ -1,6 +1,6 @@
-<p align="center">My configs
+<h1 align="center">VS CODE CONFIGS
 
-</p>
+</h1>
 
 ## Theme
 
